@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: fd85839096f332948881ea038444956a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 852371908702937510
+    second: Sawed-off shotgun editadav2_0
+  - first:
+      213: 3367857116224591641
+    second: Sawed-off shotgun editadav2_1
+  - first:
+      213: -833338679787804516
+    second: Sawed-off shotgun editadav2_2
+  - first:
+      213: -3888817633389264559
+    second: Sawed-off shotgun editadav2_3
+  - first:
+      213: 5700372985379861663
+    second: Sawed-off shotgun editadav2_4
+  - first:
+      213: -1948398235080674437
+    second: Sawed-off shotgun editadav2_5
+  - first:
+      213: -3986872413043026554
+    second: Sawed-off shotgun editadav2_6
+  - first:
+      213: 5945572118375956721
+    second: Sawed-off shotgun editadav2_7
+  - first:
+      213: 1208195390153926328
+    second: Sawed-off shotgun editadav2_8
+  - first:
+      213: -7065077276335895612
+    second: Sawed-off shotgun editadav2_9
+  - first:
+      213: -6034362012967179192
+    second: Sawed-off shotgun editadav2_10
+  - first:
+      213: -2198514503808463946
+    second: Sawed-off shotgun editadav2_11
+  - first:
+      213: 1837819135667450578
+    second: Sawed-off shotgun editadav2_12
+  - first:
+      213: -5634966459630383842
+    second: Sawed-off shotgun editadav2_13
+  - first:
+      213: -6296060797916905250
+    second: Sawed-off shotgun editadav2_14
+  - first:
+      213: -2063513300731359704
+    second: Sawed-off shotgun editadav2_15
+  - first:
+      213: 7009212730264053973
+    second: Sawed-off shotgun editadav2_16
+  - first:
+      213: -4955815587207200063
+    second: Sawed-off shotgun editadav2_17
+  - first:
+      213: 6672834800953580853
+    second: Sawed-off shotgun editadav2_18
+  - first:
+      213: 178687537793879452
+    second: Sawed-off shotgun editadav2_19
+  - first:
+      213: -7673776751602909491
+    second: Sawed-off shotgun editadav2_20
+  - first:
+      213: -6579540591149629108
+    second: Sawed-off shotgun editadav2_21
+  - first:
+      213: 3356283788966562899
+    second: Sawed-off shotgun editadav2_22
+  - first:
+      213: 8292222943477369123
+    second: Sawed-off shotgun editadav2_23
+  - first:
+      213: 2617229850413101030
+    second: Sawed-off shotgun editadav2_24
+  - first:
+      213: 8041244619444780606
+    second: Sawed-off shotgun editadav2_25
+  - first:
+      213: -696796508577795077
+    second: Sawed-off shotgun editadav2_26
+  - first:
+      213: 501537599954788053
+    second: Sawed-off shotgun editadav2_27
+  - first:
+      213: 7537318994805381059
+    second: Sawed-off shotgun editadav2_28
+  - first:
+      213: -7890239988531081459
+    second: Sawed-off shotgun editadav2_29
+  - first:
+      213: -1547327839276109034
+    second: Sawed-off shotgun editadav2_30
+  - first:
+      213: -8656036866228244356
+    second: Sawed-off shotgun editadav2_31
+  - first:
+      213: 2656350896360606961
+    second: Sawed-off shotgun editadav2_32
+  - first:
+      213: 95205019915094433
+    second: Sawed-off shotgun editadav2_33
+  - first:
+      213: -7546331857469338168
+    second: Sawed-off shotgun editadav2_34
+  - first:
+      213: 2029718297460776443
+    second: Sawed-off shotgun editadav2_35
+  - first:
+      213: -8493640404228054660
+    second: Sawed-off shotgun editadav2_36
+  - first:
+      213: -5822819839643008907
+    second: Sawed-off shotgun editadav2_37
+  - first:
+      213: -2740958684882511068
+    second: Sawed-off shotgun editadav2_38
+  - first:
+      213: 8531718774659220560
+    second: Sawed-off shotgun editadav2_39
+  - first:
+      213: -686503915096661152
+    second: Sawed-off shotgun editadav2_40
+  - first:
+      213: -1107621124589390783
+    second: Sawed-off shotgun editadav2_41
+  - first:
+      213: 7014148352913678138
+    second: Sawed-off shotgun editadav2_42
+  - first:
+      213: 6847716829521798719
+    second: Sawed-off shotgun editadav2_43
+  - first:
+      213: -7562730261562537167
+    second: Sawed-off shotgun editadav2_44
+  - first:
+      213: -1662486309031082638
+    second: Sawed-off shotgun editadav2_45
+  - first:
+      213: 2269707368396497100
+    second: Sawed-off shotgun editadav2_46
+  - first:
+      213: -7785799564531513796
+    second: Sawed-off shotgun editadav2_47
+  - first:
+      213: 2158256104919986341
+    second: Sawed-off shotgun editadav2_48
+  - first:
+      213: 4415635379236089439
+    second: Sawed-off shotgun editadav2_49
+  - first:
+      213: 4777423944599320015
+    second: Sawed-off shotgun editadav2_50
+  - first:
+      213: -5093779738416634772
+    second: Sawed-off shotgun editadav2_51
+  - first:
+      213: 1356598103678594394
+    second: Sawed-off shotgun editadav2_52
+  - first:
+      213: 8713175550663296680
+    second: Sawed-off shotgun editadav2_53
+  - first:
+      213: -6003434779461968069
+    second: Sawed-off shotgun editadav2_54
+  - first:
+      213: -6307965315096146894
+    second: Sawed-off shotgun editadav2_55
+  - first:
+      213: -8100392454576105767
+    second: Sawed-off shotgun editadav2_56
+  - first:
+      213: -2750139507627033921
+    second: Sawed-off shotgun editadav2_57
+  - first:
+      213: 2784056859136415048
+    second: Sawed-off shotgun editadav2_58
+  - first:
+      213: -3085320490302865246
+    second: Sawed-off shotgun editadav2_59
+  - first:
+      213: -5079381393837910521
+    second: Sawed-off shotgun editadav2_60
+  - first:
+      213: -6145049375001878015
+    second: Sawed-off shotgun editadav2_61
+  - first:
+      213: 5580418306952787888
+    second: Sawed-off shotgun editadav2_62
+  - first:
+      213: -1527116900315382879
+    second: Sawed-off shotgun editadav2_63
+  - first:
+      213: 25695295442747571
+    second: Sawed-off shotgun editadav2_64
+  - first:
+      213: -6394483292433337874
+    second: Sawed-off shotgun editadav2_65
+  - first:
+      213: -8418329409820787216
+    second: Sawed-off shotgun editadav2_66
+  - first:
+      213: 7967739391293436836
+    second: Sawed-off shotgun editadav2_67
+  - first:
+      213: -7064566175585551224
+    second: Sawed-off shotgun editadav2_68
+  - first:
+      213: 6800362984116247155
+    second: Sawed-off shotgun editadav2_69
+  - first:
+      213: 8828526802577037631
+    second: Sawed-off shotgun editadav2_70
+  - first:
+      213: 4840339110719045571
+    second: Sawed-off shotgun editadav2_71
+  - first:
+      213: -8651016591568403957
+    second: Sawed-off shotgun editadav2_72
+  - first:
+      213: 2913666294674993027
+    second: Sawed-off shotgun editadav2_73
+  - first:
+      213: -5812171159200200989
+    second: Sawed-off shotgun editadav2_74
+  - first:
+      213: 3027549496112273873
+    second: Sawed-off shotgun editadav2_75
+  - first:
+      213: 4171043228792904712
+    second: Sawed-off shotgun editadav2_76
+  - first:
+      213: 1310336965513570383
+    second: Sawed-off shotgun editadav2_77
+  - first:
+      213: 2466545944299774896
+    second: Sawed-off shotgun editadav2_78
+  - first:
+      213: -1149596821237654616
+    second: Sawed-off shotgun editadav2_79
+  - first:
+      213: -160722821878511961
+    second: Sawed-off shotgun editadav2_80
+  - first:
+      213: -2006227230035213480
+    second: Sawed-off shotgun editadav2_81
+  - first:
+      213: 3026528870561119828
+    second: Sawed-off shotgun editadav2_82
+  - first:
+      213: 2674309762249832336
+    second: Sawed-off shotgun editadav2_83
+  - first:
+      213: 1187371356384340575
+    second: Sawed-off shotgun editadav2_84
+  - first:
+      213: -3171663765445976362
+    second: Sawed-off shotgun editadav2_85
+  - first:
+      213: 8970266157597794360
+    second: Sawed-off shotgun editadav2_86
+  - first:
+      213: 5390121785565152836
+    second: Sawed-off shotgun editadav2_87
+  - first:
+      213: -7378504233120796553
+    second: Sawed-off shotgun editadav2_88
+  - first:
+      213: 8815643945304448794
+    second: Sawed-off shotgun editadav2_89
+  - first:
+      213: -7240848414118042072
+    second: Sawed-off shotgun editadav2_90
+  - first:
+      213: -2962029116754148329
+    second: Sawed-off shotgun editadav2_91
+  - first:
+      213: -7025393666434201446
+    second: Sawed-off shotgun editadav2_92
+  - first:
+      213: 6097262024486468838
+    second: Sawed-off shotgun editadav2_93
+  - first:
+      213: -2592673509903517679
+    second: Sawed-off shotgun editadav2_94
+  - first:
+      213: -7398422987724042070
+    second: Sawed-off shotgun editadav2_95
+  - first:
+      213: -7793445749834108971
+    second: Sawed-off shotgun editadav2_96
+  - first:
+      213: 7681380988148257114
+    second: Sawed-off shotgun editadav2_97
+  - first:
+      213: 1374597464343202113
+    second: Sawed-off shotgun editadav2_98
+  - first:
+      213: -519050798721490810
+    second: Sawed-off shotgun editadav2_99
+  - first:
+      213: 1555578779287764011
+    second: Sawed-off shotgun editadav2_100
+  - first:
+      213: -2392684988828957024
+    second: Sawed-off shotgun editadav2_101
+  - first:
+      213: -1761469302743295791
+    second: Sawed-off shotgun editadav2_102
+  - first:
+      213: -1718071281308982537
+    second: Sawed-off shotgun editadav2_103
+  - first:
+      213: -4488835664134542278
+    second: Sawed-off shotgun editadav2_104
+  - first:
+      213: -1124114956165505761
+    second: Sawed-off shotgun editadav2_105
+  - first:
+      213: 6041397845698298614
+    second: Sawed-off shotgun editadav2_106
+  - first:
+      213: 4349426470296992764
+    second: Sawed-off shotgun editadav2_107
+  - first:
+      213: -8310467222409529561
+    second: Sawed-off shotgun editadav2_108
+  - first:
+      213: 940991402013381323
+    second: Sawed-off shotgun editadav2_109
+  - first:
+      213: 7237406345777048158
+    second: Sawed-off shotgun editadav2_110
+  - first:
+      213: -7344930939173774308
+    second: Sawed-off shotgun editadav2_111
+  - first:
+      213: -7156982853579486939
+    second: Sawed-off shotgun editadav2_112
+  - first:
+      213: 8274043791159907903
+    second: Sawed-off shotgun editadav2_113
+  - first:
+      213: -872660623935840944
+    second: Sawed-off shotgun editadav2_114
+  - first:
+      213: 3713764845905302549
+    second: Sawed-off shotgun editadav2_115
+  - first:
+      213: -1830952592478553952
+    second: Sawed-off shotgun editadav2_116
+  - first:
+      213: 6319940697252291944
+    second: Sawed-off shotgun editadav2_117
+  - first:
+      213: 494384489208672997
+    second: Sawed-off shotgun editadav2_118
+  - first:
+      213: -3840679230391244880
+    second: Sawed-off shotgun editadav2_119
+  - first:
+      213: -1757528910105459216
+    second: Sawed-off shotgun editadav2_120
+  - first:
+      213: -4585963924319019417
+    second: Sawed-off shotgun editadav2_121
+  - first:
+      213: 4395664115337348260
+    second: Sawed-off shotgun editadav2_122
+  - first:
+      213: -6413728248633050493
+    second: Sawed-off shotgun editadav2_123
+  - first:
+      213: -3607575823020319948
+    second: Sawed-off shotgun editadav2_124
+  - first:
+      213: 113749458622520347
+    second: Sawed-off shotgun editadav2_125
+  - first:
+      213: 1322509643553955517
+    second: Sawed-off shotgun editadav2_126
+  - first:
+      213: -3788482102258145451
+    second: Sawed-off shotgun editadav2_127
+  - first:
+      213: -1132343058567789611
+    second: Sawed-off shotgun editadav2_128
+  - first:
+      213: -9147385451450238677
+    second: Sawed-off shotgun editadav2_129
+  - first:
+      213: 8721423965666387998
+    second: Sawed-off shotgun editadav2_130
+  - first:
+      213: -6477156487645576199
+    second: Sawed-off shotgun editadav2_131
+  - first:
+      213: 5422573072532155958
+    second: Sawed-off shotgun editadav2_132
+  - first:
+      213: -7891312375651202379
+    second: Sawed-off shotgun editadav2_133
+  - first:
+      213: 6579839681026455089
+    second: Sawed-off shotgun editadav2_134
+  - first:
+      213: -4736476553531870458
+    second: Sawed-off shotgun editadav2_135
+  - first:
+      213: -485490184518253523
+    second: Sawed-off shotgun editadav2_136
+  - first:
+      213: 3919915339309568121
+    second: Sawed-off shotgun editadav2_137
+  - first:
+      213: 66085115850973135
+    second: Sawed-off shotgun editadav2_138
+  - first:
+      213: -6714786353420057239
+    second: Sawed-off shotgun editadav2_139
+  - first:
+      213: 2920673361471293337
+    second: Sawed-off shotgun editadav2_140
+  - first:
+      213: -1565803585695236392
+    second: Sawed-off shotgun editadav2_141
+  - first:
+      213: 4213891880347183569
+    second: Sawed-off shotgun editadav2_142
+  - first:
+      213: 3165536947989120048
+    second: Sawed-off shotgun editadav2_143
+  - first:
+      213: 8411385119248209934
+    second: Sawed-off shotgun editadav2_144
+  - first:
+      213: 4137042137245456545
+    second: Sawed-off shotgun editadav2_145
+  - first:
+      213: -6548011049154117786
+    second: Sawed-off shotgun editadav2_146
+  - first:
+      213: 6243975751533311587
+    second: Sawed-off shotgun editadav2_147
+  - first:
+      213: 3497113568680999457
+    second: Sawed-off shotgun editadav2_148
+  - first:
+      213: 7814895000319838782
+    second: Sawed-off shotgun editadav2_149
+  - first:
+      213: -7703282020460613663
+    second: Sawed-off shotgun editadav2_150
+  - first:
+      213: -287411467625304788
+    second: Sawed-off shotgun editadav2_151
+  - first:
+      213: 4575510593818907268
+    second: Sawed-off shotgun editadav2_152
+  - first:
+      213: 4775873427917894128
+    second: Sawed-off shotgun editadav2_153
+  - first:
+      213: -1874389460334248911
+    second: Sawed-off shotgun editadav2_154
+  - first:
+      213: 9143514066901675031
+    second: Sawed-off shotgun editadav2_155
+  - first:
+      213: -9058223651869943955
+    second: Sawed-off shotgun editadav2_156
+  - first:
+      213: 13337657658663370
+    second: Sawed-off shotgun editadav2_157
+  - first:
+      213: -8860600122459372650
+    second: Sawed-off shotgun editadav2_158
+  - first:
+      213: -6187642292172438335
+    second: Sawed-off shotgun editadav2_159
+  - first:
+      213: 4330257491057891342
+    second: Sawed-off shotgun editadav2_160
+  - first:
+      213: 6423804124320580891
+    second: Sawed-off shotgun editadav2_161
+  - first:
+      213: 6462319189135668284
+    second: Sawed-off shotgun editadav2_162
+  - first:
+      213: 6161612097774065649
+    second: Sawed-off shotgun editadav2_163
+  - first:
+      213: 7696063132969747405
+    second: Sawed-off shotgun editadav2_164
+  - first:
+      213: 3370001778064420414
+    second: Sawed-off shotgun editadav2_165
+  - first:
+      213: -5501567522451657609
+    second: Sawed-off shotgun editadav2_166
+  - first:
+      213: -898523893793665644
+    second: Sawed-off shotgun editadav2_167
+  - first:
+      213: 1394514236586427410
+    second: Sawed-off shotgun editadav2_168
+  - first:
+      213: -3382653687839801701
+    second: Sawed-off shotgun editadav2_169
+  - first:
+      213: -2545104242885127740
+    second: Sawed-off shotgun editadav2_170
+  - first:
+      213: 6582102937748989618
+    second: Sawed-off shotgun editadav2_171
+  - first:
+      213: -6661949909849976063
+    second: Sawed-off shotgun editadav2_172
+  - first:
+      213: -1810214675568848648
+    second: Sawed-off shotgun editadav2_173
+  - first:
+      213: -5559706633761764470
+    second: Sawed-off shotgun editadav2_174
+  - first:
+      213: 4278083264423798198
+    second: Sawed-off shotgun editadav2_175
+  - first:
+      213: -1405682505849576692
+    second: Sawed-off shotgun editadav2_176
+  - first:
+      213: -1131440350664440841
+    second: Sawed-off shotgun editadav2_177
+  - first:
+      213: -4195836406826418158
+    second: Sawed-off shotgun editadav2_178
+  - first:
+      213: 5724775779692204576
+    second: Sawed-off shotgun editadav2_179
+  - first:
+      213: -4319946466357436939
+    second: Sawed-off shotgun editadav2_180
+  - first:
+      213: -2308163041058628618
+    second: Sawed-off shotgun editadav2_181
+  - first:
+      213: 8193410818757518213
+    second: Sawed-off shotgun editadav2_182
+  - first:
+      213: -8531049559147240493
+    second: Sawed-off shotgun editadav2_183
+  - first:
+      213: 842471006269684026
+    second: Sawed-off shotgun editadav2_184
+  - first:
+      213: 3945229867546639533
+    second: Sawed-off shotgun editadav2_185
+  - first:
+      213: -2776534179032054996
+    second: Sawed-off shotgun editadav2_186
+  - first:
+      213: 8540566497009899120
+    second: Sawed-off shotgun editadav2_187
+  - first:
+      213: -3198202573311535562
+    second: Sawed-off shotgun editadav2_188
+  - first:
+      213: -6520176114323147203
+    second: Sawed-off shotgun editadav2_189
+  - first:
+      213: 1961084905663562865
+    second: Sawed-off shotgun editadav2_190
+  - first:
+      213: -2227455069678161470
+    second: Sawed-off shotgun editadav2_191
+  - first:
+      213: 7376020459875131076
+    second: Sawed-off shotgun editadav2_192
+  - first:
+      213: -8783019566779555289
+    second: Sawed-off shotgun editadav2_193
+  - first:
+      213: 2725819832510080245
+    second: Sawed-off shotgun editadav2_194
+  - first:
+      213: -1847538500872934577
+    second: Sawed-off shotgun editadav2_195
+  - first:
+      213: 7961387716107259194
+    second: Sawed-off shotgun editadav2_196
+  - first:
+      213: -5221301015929230511
+    second: Sawed-off shotgun editadav2_197
+  - first:
+      213: -3359708492990740017
+    second: Sawed-off shotgun editadav2_198
+  - first:
+      213: -1961910423132536795
+    second: Sawed-off shotgun editadav2_199
+  - first:
+      213: -2096513014431989975
+    second: Sawed-off shotgun editadav2_200
+  - first:
+      213: -9071634971535990327
+    second: Sawed-off shotgun editadav2_201
+  - first:
+      213: 2196420088092822962
+    second: Sawed-off shotgun editadav2_202
+  - first:
+      213: 9454474202895758
+    second: Sawed-off shotgun editadav2_203
+  - first:
+      213: -3390224370445266135
+    second: Sawed-off shotgun editadav2_204
+  - first:
+      213: -4986406165939539614
+    second: Sawed-off shotgun editadav2_205
+  - first:
+      213: -4055314349867030138
+    second: Sawed-off shotgun editadav2_206
+  - first:
+      213: -7710452167826728916
+    second: Sawed-off shotgun editadav2_207
+  - first:
+      213: 7748677078920063489
+    second: Sawed-off shotgun editadav2_208
+  - first:
+      213: 325557221897974785
+    second: Sawed-off shotgun editadav2_209
+  - first:
+      213: 9092187606206302575
+    second: Sawed-off shotgun editadav2_210
+  - first:
+      213: -1453564494105309911
+    second: Sawed-off shotgun editadav2_211
+  - first:
+      213: 5718760532828529546
+    second: Sawed-off shotgun editadav2_212
+  - first:
+      213: -6766066779832608989
+    second: Sawed-off shotgun editadav2_213
+  - first:
+      213: -1796314127806475514
+    second: Sawed-off shotgun editadav2_214
+  - first:
+      213: 2073942382984246598
+    second: Sawed-off shotgun editadav2_215
+  - first:
+      213: 5313186619112137207
+    second: Sawed-off shotgun editadav2_216
+  - first:
+      213: -6110680267547332874
+    second: Sawed-off shotgun editadav2_217
+  - first:
+      213: -3772571874003322789
+    second: Sawed-off shotgun editadav2_218
+  - first:
+      213: -4706922320768086617
+    second: Sawed-off shotgun editadav2_219
+  - first:
+      213: -8431586054689217213
+    second: Sawed-off shotgun editadav2_220
+  - first:
+      213: -2440440198962752937
+    second: Sawed-off shotgun editadav2_221
+  - first:
+      213: 4891148612728399179
+    second: Sawed-off shotgun editadav2_222
+  - first:
+      213: -4614172197653668997
+    second: Sawed-off shotgun editadav2_223
+  - first:
+      213: 8108238615264412474
+    second: Sawed-off shotgun editadav2_224
+  - first:
+      213: 4460783976690707174
+    second: Sawed-off shotgun editadav2_225
+  - first:
+      213: -2879610137336278096
+    second: Sawed-off shotgun editadav2_226
+  - first:
+      213: -2306966587126764123
+    second: Sawed-off shotgun editadav2_227
+  - first:
+      213: -8875813544415880128
+    second: Sawed-off shotgun editadav2_228
+  - first:
+      213: -8438127337903120897
+    second: Sawed-off shotgun editadav2_229
+  - first:
+      213: 2529255904221427550
+    second: Sawed-off shotgun editadav2_230
+  - first:
+      213: 6082892538910342415
+    second: Sawed-off shotgun editadav2_231
+  - first:
+      213: -4483593100378960892
+    second: Sawed-off shotgun editadav2_232
+  - first:
+      213: 1175382136287986101
+    second: Sawed-off shotgun editadav2_233
+  - first:
+      213: -2875752797630985704
+    second: Sawed-off shotgun editadav2_234
+  - first:
+      213: -8817282040229165957
+    second: Sawed-off shotgun editadav2_235
+  - first:
+      213: -3073583055782234023
+    second: Sawed-off shotgun editadav2_236
+  - first:
+      213: 8586558329260160964
+    second: Sawed-off shotgun editadav2_237
+  - first:
+      213: 1494780919864559392
+    second: Sawed-off shotgun editadav2_238
+  - first:
+      213: -5820428550153823665
+    second: Sawed-off shotgun editadav2_239
+  - first:
+      213: 8522748757292229795
+    second: Sawed-off shotgun editadav2_240
+  - first:
+      213: 7687226185945905470
+    second: Sawed-off shotgun editadav2_241
+  - first:
+      213: -3681287627774728775
+    second: Sawed-off shotgun editadav2_242
+  - first:
+      213: 3656418030756639022
+    second: Sawed-off shotgun editadav2_243
+  - first:
+      213: 7359348687898429853
+    second: Sawed-off shotgun editadav2_244
+  - first:
+      213: 9124985116802864152
+    second: Sawed-off shotgun editadav2_245
+  - first:
+      213: 1427345540236599592
+    second: Sawed-off shotgun editadav2_246
+  - first:
+      213: -5187602634908657828
+    second: Sawed-off shotgun editadav2_247
+  - first:
+      213: 7006301765123257611
+    second: Sawed-off shotgun editadav2_248
+  - first:
+      213: -4856322981229818182
+    second: Sawed-off shotgun editadav2_249
+  - first:
+      213: 683907733229524506
+    second: Sawed-off shotgun editadav2_250
+  - first:
+      213: -8617939517316746413
+    second: Sawed-off shotgun editadav2_251
+  - first:
+      213: -369738748550658510
+    second: Sawed-off shotgun editadav2_252
+  - first:
+      213: 2898804514134039688
+    second: Sawed-off shotgun editadav2_253
+  - first:
+      213: 7290008500140157616
+    second: Sawed-off shotgun editadav2_254
+  - first:
+      213: 4825044855614762645
+    second: Sawed-off shotgun editadav2_255
+  - first:
+      213: -3744978397814616056
+    second: Sawed-off shotgun editadav2_256
+  - first:
+      213: -2860601554908451057
+    second: Sawed-off shotgun editadav2_257
+  - first:
+      213: 7644193624925616063
+    second: Sawed-off shotgun editadav2_258
+  - first:
+      213: -5118598200145629430
+    second: Sawed-off shotgun editadav2_259
+  - first:
+      213: 8930829535853611029
+    second: Sawed-off shotgun editadav2_260
+  - first:
+      213: 3217922854806324714
+    second: Sawed-off shotgun editadav2_261
+  - first:
+      213: 6860510422370416235
+    second: Sawed-off shotgun editadav2_262
+  - first:
+      213: -2665726332643808239
+    second: Sawed-off shotgun editadav2_263
+  - first:
+      213: -1092560264687986643
+    second: Sawed-off shotgun editadav2_264
+  - first:
+      213: -2703054260678532391
+    second: Sawed-off shotgun editadav2_265
+  - first:
+      213: 5989420429051921264
+    second: Sawed-off shotgun editadav2_266
+  - first:
+      213: -1921827693173687796
+    second: Sawed-off shotgun editadav2_267
+  - first:
+      213: 1389262597043658819
+    second: Sawed-off shotgun editadav2_268
+  - first:
+      213: 5552021941184187972
+    second: Sawed-off shotgun editadav2_269
+  - first:
+      213: 1545195182656943548
+    second: Sawed-off shotgun editadav2_270
+  - first:
+      213: 851185007515711467
+    second: Sawed-off shotgun editadav2_271
+  - first:
+      213: -5435111783883499418
+    second: Sawed-off shotgun editadav2_272
+  - first:
+      213: -4204910321861944228
+    second: Sawed-off shotgun editadav2_273
+  - first:
+      213: 7174919516899082613
+    second: Sawed-off shotgun editadav2_274
+  - first:
+      213: 5501440549549804442
+    second: Sawed-off shotgun editadav2_275
+  - first:
+      213: 4445412435539779294
+    second: Sawed-off shotgun editadav2_276
+  - first:
+      213: -7900947187717571811
+    second: Sawed-off shotgun editadav2_277
+  - first:
+      213: 1866553157128118061
+    second: Sawed-off shotgun editadav2_278
+  - first:
+      213: -1631342933087380610
+    second: Sawed-off shotgun editadav2_279
+  - first:
+      213: 2442067425201630220
+    second: Sawed-off shotgun editadav2_280
+  - first:
+      213: -146087963192615102
+    second: Sawed-off shotgun editadav2_281
+  - first:
+      213: -3766100535316467644
+    second: Sawed-off shotgun editadav2_282
+  - first:
+      213: 4042607934613740204
+    second: Sawed-off shotgun editadav2_283
+  - first:
+      213: -4812411553104510603
+    second: Sawed-off shotgun editadav2_284
+  - first:
+      213: 6563421339962527393
+    second: Sawed-off shotgun editadav2_285
+  - first:
+      213: 1882298822351489929
+    second: Sawed-off shotgun editadav2_286
+  - first:
+      213: -5678205159397217023
+    second: Sawed-off shotgun editadav2_287
+  - first:
+      213: -1185070023724912735
+    second: Sawed-off shotgun editadav2_288
+  - first:
+      213: 3613569974905234530
+    second: Sawed-off shotgun editadav2_289
+  - first:
+      213: -230347550961276626
+    second: Sawed-off shotgun editadav2_290
+  - first:
+      213: -3751842118540285750
+    second: Sawed-off shotgun editadav2_291
+  - first:
+      213: 7674344662484687252
+    second: Sawed-off shotgun editadav2_292
+  - first:
+      213: 5870840887070353046
+    second: Sawed-off shotgun editadav2_293
+  - first:
+      213: 872368898025372775
+    second: Sawed-off shotgun editadav2_294
+  - first:
+      213: -6919432529500733119
+    second: Sawed-off shotgun editadav2_295
+  - first:
+      213: -4332928129570135884
+    second: Sawed-off shotgun editadav2_296
+  - first:
+      213: 1302848090228985986
+    second: Sawed-off shotgun editadav2_297
+  - first:
+      213: 1440067136828653777
+    second: Sawed-off shotgun editadav2_298
+  - first:
+      213: -4808435813201783836
+    second: Sawed-off shotgun editadav2_299
+  - first:
+      213: -2974144614425685508
+    second: Sawed-off shotgun editadav2_300
+  - first:
+      213: 1677608525402685694
+    second: Sawed-off shotgun editadav2_301
+  - first:
+      213: -111328781782531023
+    second: Sawed-off shotgun editadav2_302
+  - first:
+      213: -625346739550608133
+    second: Sawed-off shotgun editadav2_303
+  - first:
+      213: 2747129101824721796
+    second: Sawed-off shotgun editadav2_304
+  - first:
+      213: 1136186436628452626
+    second: Sawed-off shotgun editadav2_305
+  - first:
+      213: 2147404365124652255
+    second: Sawed-off shotgun editadav2_306
+  - first:
+      213: 3170207714725982981
+    second: Sawed-off shotgun editadav2_307
+  - first:
+      213: 8463073571906483468
+    second: Sawed-off shotgun editadav2_308
+  - first:
+      213: -1082106937132420447
+    second: Sawed-off shotgun editadav2_309
+  - first:
+      213: 5544539056245235886
+    second: Sawed-off shotgun editadav2_310
+  - first:
+      213: 8788028159110349861
+    second: Sawed-off shotgun editadav2_311
+  - first:
+      213: 7029351936018634789
+    second: Sawed-off shotgun editadav2_312
+  - first:
+      213: -3935664082445791378
+    second: Sawed-off shotgun editadav2_313
+  - first:
+      213: 1082185082679864414
+    second: Sawed-off shotgun editadav2_314
+  - first:
+      213: 9087401267198470024
+    second: Sawed-off shotgun editadav2_315
+  - first:
+      213: -4622081669707298945
+    second: Sawed-off shotgun editadav2_316
+  - first:
+      213: 3475588867694767749
+    second: Sawed-off shotgun editadav2_317
+  - first:
+      213: 4899047217099780033
+    second: Sawed-off shotgun editadav2_318
+  - first:
+      213: 3371051351683966343
+    second: Sawed-off shotgun editadav2_319
+  - first:
+      213: 7126888087859931058
+    second: Sawed-off shotgun editadav2_320
+  - first:
+      213: 4257802069970511659
+    second: Sawed-off shotgun editadav2_321
+  - first:
+      213: -8773523111610715231
+    second: Sawed-off shotgun editadav2_322
+  - first:
+      213: 4897345464425594080
+    second: Sawed-off shotgun editadav2_323
+  - first:
+      213: 2165445075325232098
+    second: Sawed-off shotgun editadav2_324
+  - first:
+      213: -3108206416828465689
+    second: Sawed-off shotgun editadav2_325
+  - first:
+      213: 2855438668404153084
+    second: Sawed-off shotgun editadav2_326
+  - first:
+      213: 743092558638572721
+    second: Sawed-off shotgun editadav2_327
+  - first:
+      213: 6429261434789766995
+    second: Sawed-off shotgun editadav2_328
+  - first:
+      213: 3334268353651997945
+    second: Sawed-off shotgun editadav2_329
+  - first:
+      213: 2083775882943271557
+    second: Sawed-off shotgun editadav2_330
+  - first:
+      213: 3326226978486810025
+    second: Sawed-off shotgun editadav2_331
+  - first:
+      213: 2601693484804824777
+    second: Sawed-off shotgun editadav2_332
+  - first:
+      213: 377391310135359233
+    second: Sawed-off shotgun editadav2_333
+  - first:
+      213: 6018455075898337524
+    second: Sawed-off shotgun editadav2_334
+  - first:
+      213: -827743294319206179
+    second: Sawed-off shotgun editadav2_335
+  - first:
+      213: -8228363568210745743
+    second: Sawed-off shotgun editadav2_336
+  - first:
+      213: -1379542939391903762
+    second: Sawed-off shotgun editadav2_337
+  - first:
+      213: 488073175265652679
+    second: Sawed-off shotgun editadav2_338
+  - first:
+      213: -3608637861941653129
+    second: Sawed-off shotgun editadav2_339
+  - first:
+      213: -1790790923408279717
+    second: Sawed-off shotgun editadav2_340
+  - first:
+      213: -5976633411505361744
+    second: Sawed-off shotgun editadav2_341
+  - first:
+      213: -2966421285215783954
+    second: Sawed-off shotgun editadav2_342
+  - first:
+      213: -6162215469165424134
+    second: Sawed-off shotgun editadav2_343
+  - first:
+      213: 7502883975367487732
+    second: Sawed-off shotgun editadav2_344
+  - first:
+      213: 5369668679438966338
+    second: Sawed-off shotgun editadav2_345
+  - first:
+      213: 8612838288527209604
+    second: Sawed-off shotgun editadav2_346
+  - first:
+      213: 2154761576114669854
+    second: Sawed-off shotgun editadav2_347
+  - first:
+      213: -2496480651975281131
+    second: Sawed-off shotgun editadav2_348
+  - first:
+      213: 2235308067197389073
+    second: Sawed-off shotgun editadav2_349
+  - first:
+      213: 7570430859165368840
+    second: Sawed-off shotgun editadav2_350
+  - first:
+      213: -8221359294432204722
+    second: Sawed-off shotgun editadav2_351
+  - first:
+      213: -4035156291166008791
+    second: Sawed-off shotgun editadav2_352
+  - first:
+      213: 3563735330714353548
+    second: Sawed-off shotgun editadav2_353
+  - first:
+      213: 8937917367522855652
+    second: Sawed-off shotgun editadav2_354
+  - first:
+      213: -5949675320651248284
+    second: Sawed-off shotgun editadav2_355
+  - first:
+      213: 1054640895940597580
+    second: Sawed-off shotgun editadav2_356
+  - first:
+      213: -2042248109963153798
+    second: Sawed-off shotgun editadav2_357
+  - first:
+      213: 3468801190013022547
+    second: Sawed-off shotgun editadav2_358
+  - first:
+      213: 7477260875128296294
+    second: Sawed-off shotgun editadav2_359
+  - first:
+      213: -5930081762237279756
+    second: Sawed-off shotgun editadav2_360
+  - first:
+      213: 5461548153491744024
+    second: Sawed-off shotgun editadav2_361
+  - first:
+      213: 1450920698854615754
+    second: Sawed-off shotgun editadav2_362
+  - first:
+      213: 8311946436962702422
+    second: Sawed-off shotgun editadav2_363
+  - first:
+      213: -3278575918299955330
+    second: Sawed-off shotgun editadav2_364
+  - first:
+      213: 1730495549209067357
+    second: Sawed-off shotgun editadav2_365
+  - first:
+      213: 2604404715498594820
+    second: Sawed-off shotgun editadav2_366
+  - first:
+      213: 8042896708203487235
+    second: Sawed-off shotgun editadav2_367
+  - first:
+      213: 492141892946841264
+    second: Sawed-off shotgun editadav2_368
+  - first:
+      213: -4767794235819658821
+    second: Sawed-off shotgun editadav2_369
+  - first:
+      213: -1400825723892721055
+    second: Sawed-off shotgun editadav2_370
+  - first:
+      213: 1719948383875695085
+    second: Sawed-off shotgun editadav2_371
+  - first:
+      213: -4354227959006653879
+    second: Sawed-off shotgun editadav2_372
+  - first:
+      213: -6682383157445012117
+    second: Sawed-off shotgun editadav2_373
+  - first:
+      213: -5277926794278639730
+    second: Sawed-off shotgun editadav2_374
+  - first:
+      213: -6594715324973558596
+    second: Sawed-off shotgun editadav2_375
+  - first:
+      213: -7586442371162084558
+    second: Sawed-off shotgun editadav2_376
+  - first:
+      213: -6159928471004445771
+    second: Sawed-off shotgun editadav2_377
+  - first:
+      213: 6039138333512188246
+    second: Sawed-off shotgun editadav2_378
+  - first:
+      213: -8698213849867006097
+    second: Sawed-off shotgun editadav2_379
+  - first:
+      213: -7750722660646314302
+    second: Sawed-off shotgun editadav2_380
+  - first:
+      213: -7132603367597209891
+    second: Sawed-off shotgun editadav2_381
+  - first:
+      213: 8961802574020960472
+    second: Sawed-off shotgun editadav2_382
+  - first:
+      213: -3743296605397924029
+    second: Sawed-off shotgun editadav2_383
+  - first:
+      213: -5253162824347484905
+    second: Sawed-off shotgun editadav2_384
+  - first:
+      213: 2883111219333339569
+    second: Sawed-off shotgun editadav2_385
+  - first:
+      213: 5024562211028986020
+    second: Sawed-off shotgun editadav2_386
+  - first:
+      213: -3153388008445616943
+    second: Sawed-off shotgun editadav2_387
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a2c22cbb34db00800000000000000
+      internalID: 852371908702937510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91796da14380dbe20800000000000000
+      internalID: 3367857116224591641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a7adc2e26f64f0800000000000000
+      internalID: -833338679787804516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ce8d57f4280ac0800000000000000
+      internalID: -3888817633389264559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94bcc0470bcb1f40800000000000000
+      internalID: 5700372985379861663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b405d026e5f4e0800000000000000
+      internalID: -1948398235080674437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68514c7e9a8cba8c0800000000000000
+      internalID: -3986872413043026554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f00446375ae28250800000000000000
+      internalID: 5945572118375956721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a3695e4f54c010800000000000000
+      internalID: 1208195390153926328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb805946adc3fd90800000000000000
+      internalID: -7065077276335895612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ceafa78b3a14ca0800000000000000
+      internalID: -6034362012967179192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off shotgun editadav2_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc3fef4be4d71e0800000000000000
+      internalID: -2198514503808463946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
